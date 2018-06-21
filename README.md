@@ -42,7 +42,7 @@ Browse to [http://localhost:5000](http://localhost:5000)
 
 # License
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/content/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
 
 ----
 
