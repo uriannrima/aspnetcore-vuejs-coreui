@@ -10,6 +10,8 @@ A project using AspNetCore Template of Vue.js 2 with Server Side Rendering, with
 - **Webpack**
   - HMR (Hot Module Replacement/Reloading)
 - **Bootstrap 4**
+- **CoreUI Components**
+  - Components can be seen on Dashboard menu.
 
 # Prerequisites:
  * [.Net Core 2](https://www.microsoft.com/net/download/windows)
